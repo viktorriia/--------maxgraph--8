@@ -118,7 +118,7 @@ body {
 
 .btn--light:hover {
   color: var(--color-light);
-  background-color: var(--color-dark);
+  background-color: var(--color-grey);
 }
 
 .btn--dark {
@@ -128,7 +128,7 @@ body {
 
 .btn--dark:hover {
   color: var(--color-dark);
-  background-color: var(--color-light); 
+  background-color: var(--color-grey); 
 }
 
 .grid {
